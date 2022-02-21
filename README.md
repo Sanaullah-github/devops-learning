@@ -1,2 +1,2 @@
 # devops-learning
-this is a demo repository for my Devops Learnings
+this is a demo repository for my Devops Learnings.
